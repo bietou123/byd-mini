@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#000000</color>
+    <color name="surface">#1C1C1E</color>
+    <color name="surface2">#2C2C2E</color>
+    <color name="stroke">#1FFFFFFF</color>
+    <color name="text">#FFFFFF</color>
+    <color name="text_dim">#8B8B93</color>
+    <color name="accent">#4A8DFF</color>
+    <color name="accent_fg">#FFFFFF</color>
+    <color name="btn_text">#FFFFFF</color>
+    <color name="ripple">#26FFFFFF</color>
+    <color name="grid">#0FFFFFFF</color>
+    <color name="glow">#1A5866FF</color>
+    <color name="ok">#3DDC97</color>
+    <color name="warn">#FFC857</color>
+    <color name="err">#FF6B81</color>
+    <color name="btn_face_top">#2A2A31</color>
+    <color name="btn_face_bottom">#141417</color>
+    <color name="btn_side_top">#0C0C0F</color>
+    <color name="btn_side">#040406</color>
+    <color name="btn_rim">#3C3C45</color>
+    <color name="btn_p_face_top">#FFFFFF</color>
+    <color name="btn_p_face_bottom">#D8D8DC</color>
+    <color name="btn_p_side_top">#C8C8D2</color>
+    <color name="btn_p_side">#8A8A94</color>
+    <color name="btn_p_rim">#FFFFFF</color>
+
+    <!-- 小组件：柔光玻璃 -->
+    <color name="w_card">#B01C1C1E</color>
+    <color name="w_card_stroke">#26FFFFFF</color>
+    <color name="w_ghost">#1FFFFFFF</color>
+    <color name="w_ghost_press">#33FFFFFF</color>
+    <color name="w_accent">#4A8DFF</color>
+    <color name="w_accent_press">#3A7BEE</color>
+    <color name="w_dim">#9A9AA0</color>
+    <color name="w_glass_fill">#1FFFFFFF</color>
+    <color name="w_glass_fill_press">#38FFFFFF</color>
+    <color name="w_glass_rim">#33FFFFFF</color>
+    <color name="w_glass_sheen">#14FFFFFF</color>
+    <color name="w_sheen">#1AFFFFFF</color>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Car</string>
+    <string name="launcher_name_1">Car</string>
+    <string name="launcher_name_2">极简控车</string>
+    <string name="launcher_name_3">我的车</string>
+    <string name="launcher_name_4">海豹</string>
+</resources>

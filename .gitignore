@@ -1,0 +1,24 @@
+# Gradle / 构建产物
+.gradle/
+build/
+app/build/
+tools/*/build/
+tools/*/.gradle/
+
+# 本机 SDK 路径
+local.properties
+tools/*/local.properties
+
+# Android Studio
+.idea/
+*.iml
+captures/
+
+# 设计工具的依赖与调试输出（只保留脚本源码）
+tools/car3d/node_modules/
+tools/car3d/*.png
+.preview/
+
+# 系统
+.DS_Store
+Thumbs.db
